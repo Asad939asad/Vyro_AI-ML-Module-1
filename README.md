@@ -1,3 +1,6 @@
+As the gguf file for llama cpp was so big so cannot be uploaded properly so attaching the link
+https://drive.google.com/drive/folders/1bRekxKyy24Wvd-Jtzqfxd7K-tAB1plA9?usp=drive_link
+
 (Ensure you use llama-cpp-python for offline inference)
 
 Launch Chatbot Demo:
