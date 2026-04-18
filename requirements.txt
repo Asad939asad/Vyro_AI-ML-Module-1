@@ -1,0 +1,11 @@
+# Inference Engine (Mandatory for grading)
+llama-cpp-python
+
+# Training Reproduction (Mandatory for the "complete codebase" rule)
+transformers
+peft
+trl
+datasets
+bitsandbytes
+accelerate
+sentencepiece
